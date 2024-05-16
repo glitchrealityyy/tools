@@ -1,4 +1,10 @@
 {
-    "frame_surgeon": "0.1.2",
-    "b.b.q.": "0.1.1"
+    "frame_surgeon": {
+        "version": "0.1.2",
+        "link": "https://www.patreon.com/RealityGlitch"
+    },
+    "b.b.q.": {
+        "version": "0.1.1",
+        "link": "https://www.patreon.com/RealityGlitch"
+    }
 }
